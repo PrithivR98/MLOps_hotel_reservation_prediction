@@ -1,0 +1,6 @@
+mlops_project1/
+mlruns/
+logs/
+First_MLOPS_Porject.egg-info/
+notebook/random_forest.pkl
+Answers/
